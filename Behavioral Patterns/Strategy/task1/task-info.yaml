@@ -1,0 +1,16 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+- name: test/Tests.java
+  visible: false
+- name: src/PayStrategy.java
+  visible: true
+- name: src/PayByCreditCard.java
+  visible: true
+- name: src/PaybyPayPal.java
+  visible: true
+- name: src/Order.java
+  visible: true
+- name: src/CreditCard.java
+  visible: true
